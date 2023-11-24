@@ -18,3 +18,11 @@ p{
     border: solid 4px black;
     padding: 30px;
 }
+
+#imagem2{
+    width: 30%;
+    display: block;
+    margin: auto;
+    border: solid 4px black;
+    padding: 30px;
+}
